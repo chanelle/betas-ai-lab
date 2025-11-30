@@ -36,7 +36,7 @@ An assistant that helps navigate complex social threads and tone.
 
 Gemini API, React
 
-[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo)
+[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo) _(coming soon)_
 
 **🧠 Legal-Sensei**
 
@@ -44,7 +44,7 @@ Breaking down legalese into plain English for non-lawyers.
 
 Perplexity, Python
 
-[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo)
+[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo) _(coming soon)_
 
 **💼 AI-Seller**
 
@@ -52,7 +52,7 @@ Automated persuasive copy generation for niche markets.
 
 OpenAI, Node.js
 
-[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo)
+[Try Demo](https://www.google.com/search?q=https://chanelhenry.com/demo) _(coming soon)_
 
 **🧟 Survival-GPT**
 
